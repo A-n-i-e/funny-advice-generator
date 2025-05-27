@@ -1,6 +1,6 @@
 ## Funny Advice Generator app
 
-I know I said I dropped frontend, yes I did butt I thought it would be fun to learn React and know a bit of both frontend and backend so I can build my own cool stuff.
+I know I said I dropped frontend, yes I did but I thought it would be fun to learn React and know a bit of both frontend and backend so I can build my own cool stuff.
 
 After taking a really great tutorial by BroCode on YouTube, I took on a task from Frontend Mentor to check out what I have learned.
 
@@ -12,6 +12,6 @@ I'm very happy with the build even though it's so simple!
 
 ![](./my-demo.png)
 
-Check out live site here: https://your-live-site-url.com
+Check out live site here: https://funny-advice-generator.vercel.app/
 
 **Hehehe!** 🚀
